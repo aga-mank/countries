@@ -1,0 +1,7 @@
+/*
+KOMPONENTY KLASOWE:
+  - class ... extends Component
+  - cykl życia w postaci funkcji, np. componentDidMount, 
+    componentDidUpdate, componentWillUnmount
+  - cykl życia: mounting -> updating -> unmounting
+*/

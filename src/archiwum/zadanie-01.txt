@@ -1,0 +1,10 @@
+ZADANIE 1 👩‍💻 👨‍💻
+Na starcie na ekranie ma zostać wyświetlona wartość 0. 
+Następnie po każdym kliknięciu w przycisk wartość ma zostać zwiększana o 1.
+
+ZADANIE 2 👩‍💻 👨‍💻
+Jeżeli odpowiada to: https://pokeapi.co/
+Jeżeli wolisz inne to wybierz z https://the-api-collective.com/
+	 - Wyszukać API, które Cię zainteresuje
+	 - Dla danych z tego API zbudujemy aplikację
+	 - Wybierz proszę API, które jest Free oraz Public

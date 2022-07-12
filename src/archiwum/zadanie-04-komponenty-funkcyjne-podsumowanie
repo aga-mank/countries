@@ -1,0 +1,13 @@
+ZADANIE 1
+Przebudować wszystkie pozostałe komponenty (ItemList, Item, FilterCheckbox)
+na komponenty funkcyjne.
+
+ZADANIE 2(*)
+Dokończyć zadania z poprzedniego bloku ćwiczeniowego.
+
+ZADANIE 3
+Usuń wszystko z App.js. Stwórz komponent funkcyjny, który będzie grą w zgadywanie liczby.
+Aplikacja losuje liczbę. Gracz wpisuje do inputa liczby tak długo aż zgadnie.
+Jeżeli poda za dużą/za małą to wyświetlić podpowiedź. 
+Jeżeli wygra to wyświetlić komunikat o zwycięstwie, liczbie prób i przycisk 'Rozpocznij grę od nowa'.
+Jeżeli gracz rozpocznie nową grę - schować komunikaty o zwycięstwie i przycisk.

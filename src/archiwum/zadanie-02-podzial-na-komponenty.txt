@@ -1,0 +1,9 @@
+// ZADANIE 1
+Wyciągnąć checkbox z filtrowaniem adresu mailowego do oddzielnego komponentu.
+
+// ZADANIE 2
+Wyciągnąć z komponentu ItemList komponent Item. 
+Tzn. ItemList ma składać się z wielu komponentów Item.
+
+// ZADANIE 3
+Dostać style do SearchBox.

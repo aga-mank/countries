@@ -1,0 +1,8 @@
+.item-container {
+    background-color: darkkhaki;
+    transition: transform 0.25s;
+}
+
+.item-container:hover {
+    transform: scale(1.1);
+}

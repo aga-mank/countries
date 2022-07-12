@@ -1,0 +1,9 @@
+ZADANIE 1
+Usuń wszystko z App.js. Stwórz komponent funkcyjny, który będzie wyświetlał na starcie 
+liczbę 0 oraz przycisk. Po kliknięciu w przycisk liczba ma zwiększać się o 1.
+
+ZADANIE 2
+Na bazie istniejącego, wspólniego napisanego App.js - dodaj funkcjonalność Checkboxa.
+
+ZADANIE 3
+Przebuj App.js z Twojego projektu na komponent funkcyjny.
