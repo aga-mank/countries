@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Countries - flags and capital cities
+
+This a React App using API available under https://restcountries.com/
+
+You can search by country or capital, to view the results:
+
+![image](https://user-images.githubusercontent.com/60704262/215736071-893bf482-6a42-48fc-a432-26447536cadd.png)
+
+See the working app deployed in github pages: https://aga-mank.github.io/countries/
+
+
+Below additional guidlines on working with React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
